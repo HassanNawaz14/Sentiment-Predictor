@@ -1,0 +1,21 @@
+# Python / environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / models (do NOT push raw large datasets)
+data/raw/
+*.csv
+*.zip
+
+# optionally ignore model binaries (only if you don't want to commit)
+models/*.pkl
+*.pkl
+
+# system
+.DS_Store
+Thumbs.db
