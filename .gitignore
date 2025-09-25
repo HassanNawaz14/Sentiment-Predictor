@@ -12,9 +12,6 @@ data/raw/
 *.csv
 *.zip
 
-# optionally ignore model binaries (only if you don't want to commit)
-models/*.pkl
-*.pkl
 
 # system
 .DS_Store
