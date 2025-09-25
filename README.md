@@ -62,7 +62,7 @@ Sentiment-Project/
     </ul>
   </li>
   <li>Confusion matrix visualization</li>
-  <li>Reusable <code>predict_sentiment()</code> function for quick demos</li>
+  <li>Reusable <code>Sentiment Predictor</code> function for quick demos</li>
 </ul>
 
 <hr/>
@@ -104,8 +104,8 @@ source venv/bin/activate</code></pre>
 
 <pre>
 "I love this movie!"        → Positive
-"This was terrible."        → Negative
-"I am not happy."           → Negative
+"I'll wtach this again for sure."        → Negative
+"Worst movie ever!."           → Negative
 "Movie was just okay."      → Neutral/Negative
 </pre>
 
@@ -143,3 +143,4 @@ Feel free to check the <a href="https://github.com/your-username/Sentiment-Proje
   <li><a href="https://pandas.pydata.org/">Pandas</a></li>
   <li><a href="https://www.kaggle.com/">Kaggle</a></li>
 </ul>
+
